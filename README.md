@@ -9,7 +9,7 @@ A) Escaneamento Inteligente: A aplicação pode varrer diretórios comuns do sis
 
 # Funcionalidades:
 Este projeto é uma ferramenta 2 em 1 para Windows que permite:
-Monitoriza o PC: Mostra em tempo real o uso do CPU, Memória RAM e Disco para que possa ver o quão "ocupado" o seu computador está, Analisa e Limpa Ficheiros: escaneia pastas comuns em busca de ficheiros desnecessários ou "lixo digital", Classifica os ficheiros por cores: Vermelho para os suspeitos, Laranja para os desnecessários e Verde para os seguros e a sua principal vantagem é a segurança, pois funciona num modo de simulação que não apaga nada, apenas mostra o que faria. Para uma limpeza real, o utilizador tem de desativar este modo de segurança.
+Faz o monitoramento do PC: Mostra em tempo real o uso do CPU, Memória RAM e Disco para que possa ver o quão "ocupado" o seu computador está, Analisa e Limpa Ficheiros: escaneia pastas comuns em busca de ficheiros desnecessários ou "lixo digital", Classifica os ficheiros por cores: Vermelho para os suspeitos, Laranja para os desnecessários e Verde para os seguros e a sua principal vantagem é a segurança, pois funciona num modo de simulação que não apaga nada, apenas mostra o que faria. Para uma limpeza real, o utilizador tem de desativar este modo de segurança.
 No final, pode gerar relatórios em CSV e TXT de tudo o que foi encontrado e feito para uma futura auditoria e análise dos relatórios.
 
 # # Tecnologias usadas:
